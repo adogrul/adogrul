@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
-### <div align="center">I'am Arda and studying Karadeniz Tecnical University/Software Engineering 4th grade.</div>  
+### <div align="center">I'am Arda and studying Karadeniz Tecnichal University/Software Engineering 4th grade.</div>  
   
 
 - 🔭 I’m currently working on Back-end Development(Java,Spring) and Cyber Security  
