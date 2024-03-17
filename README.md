@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Back-end Development(Java,Spring) and Cyber Security  
   
 
-- 🌱 I’m currently learning AI and Pentest  
+- 🌱 I’m currently learning AI, Java and Cyber Security 
   
 
 - ❓ Ask me about anything related Exploits , Cyber Security , Java and C++  
