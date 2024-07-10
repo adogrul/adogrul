@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
@@ -40,8 +36,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Arda"DGRL">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Arda%22DGRL&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/neymarda">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=neymarda&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
