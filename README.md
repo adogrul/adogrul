@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 🫡 Hi I'm Arda and I am Software Engineer 💻<br><br>Enjoy this page 🙂🥳
+# 💫 Hi I'm Arda
+I am Arda Doğrul, I embarked on this adventure with my interest in software since high school. I constantly follow the agenda for new technologies. I am studying, Java,Python and C/C++ as programming languages. Back-end Development , Cyber Security , Cryptography and Artificle Intelligence in their areas of interest.
 
 
 ## 🌐 Socials:
@@ -14,8 +14,8 @@
 
 #
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adogrul&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adogrul&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=adogrul&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=adogrul&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adogrul&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -24,6 +24,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adogrul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
