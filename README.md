@@ -1,5 +1,5 @@
 # 💫 About Me:
-🫡 Hi I'm Arda and I am Software Engineer 💻<br><br>Enjoy this page 🙂🥳
+## 🫡 Hi I'm Arda and I am Software Engineer 💻<br><br>Enjoy this page 🙂🥳
 
 
 ## 🌐 Socials:
