@@ -1,6 +1,6 @@
 # 💫 Hi I'm Arda
 I am Arda Doğrul, I embarked on this adventure with my interest in software since high school. I constantly follow the agenda for new technologies. I am studying, Java,Python and C/C++ as programming languages. Back-end Development , Cyber Security , Cryptography and Artificle Intelligence in their areas of interest.
-
+//fngmadjklf
 ***It is not the lights that illuminate my path, but my ideas***
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arda-dogrul) 
