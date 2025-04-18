@@ -1,5 +1,5 @@
 # 💫 Hi I'm Arda
-I am Arda Doğrul, I embarked on this adventure with my interest in software since high school. I constantly follow the agenda for new technologies. I am studying, Java,Python and C/C++ as programming languages. Back-end Development , Cyber Security , Cryptography and Artificle Intelligence in their areas of interest.
+I am Arda Doğrul, I embarked on this adventure with my interest in software since high school. I constantly follow the agenda for new technologies. I am studying, Java,and C/C++ as programming languages. Cyber Security , Back-end Development , Steganogtaphy , little 😁 Cryptography and Artificle Intelligence in their areas of interest. Actually, everything I'm curious about is in my field of interest and I can be very curious. I have a bad habit of learning everything I don't know. But still Cyber ​​Security/Information Security is in a separate place for me.
 
 ***It is not the lights that illuminate my path, but my ideas***
 ## 🌐 Socials:
